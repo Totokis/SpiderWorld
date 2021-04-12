@@ -285,22 +285,22 @@
  <HintPath>/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Logging">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Unity.45">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.UnityShim">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Api.45">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -648,37 +648,37 @@
  <HintPath>/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/paweljanusz/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/paweljanusz/Library/Mobile Documents/com~apple~CloudDocs/Projekty/Unity/SpiderWorld/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
